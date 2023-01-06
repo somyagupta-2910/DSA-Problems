@@ -26,3 +26,9 @@
 * Gained knowledge about Time and Space Complexity.
 * Learnt about Binary Search in-depth and solved numerous [problems based on Binary Search](./Binary_Search/).
 
+#### Day 5
+
+* Solved some advanced problems on [Binary Search](./Binary_Search/)] like Book Allocation and Aggressive Cows.
+* Learnt about Sorting techniques like Selection, Bubble, and Insertion Sort.
+* Understood about C++ STL.
+
