@@ -28,7 +28,11 @@
 
 #### Day 5
 
-* Solved some advanced problems on [Binary Search](./Binary_Search/)] like Book Allocation and Aggressive Cows.
+* Solved some advanced problems on [Binary Search](./Binary_Search/) like Book Allocation and Aggressive Cows.
 * Learnt about Sorting techniques like Selection, Bubble, and Insertion Sort.
 * Understood about C++ STL.
+
+#### Day 6
+
+* Solved some [Arrays questions](./Arrays/) related to Sorting, Rotation and Reverse.
 
