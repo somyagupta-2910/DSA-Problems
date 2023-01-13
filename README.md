@@ -36,3 +36,30 @@
 
 * Solved some [Arrays questions](./Arrays/) related to Sorting, Rotation and Reverse.
 
+#### Day 7
+
+* Learnt about Character Arrays and Strings.
+* Solved questions on [Character Arrays](./Arrays/) and [Strings](./Strings/)
+* Understood about 2D Arrays and solved questions.
+
+#### Day 8
+
+* Learnt about Pointers and its types.
+* Understood about Reference Variables.
+* Went through the difference b/w Static and Dynamic Memory Allocation.
+
+#### Day 8
+
+* Learnt Macros, GLobal Variables, and Inline Functions.
+* Went through basics of Recursion.
+
+#### Day 9
+
+* Learnt about Recursion with binary Search and Strings.
+* Implemented Merge Sort and Quick Sort using [Recursion](./Recursion/)
+
+#### Day 10
+
+* Solved some [Recursion based problems](./Recursion/) like Subsequence, Subsets, Phone Keypad, permutations of a String, and Rat in a Maze
+
+
